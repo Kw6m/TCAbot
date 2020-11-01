@@ -122,7 +122,7 @@ client.on("message", async message => {
         )} points.`
       )
       .setFooter(
-        `Made by Phosphorus_Carbide`,
+        `Made by JesusOfTopFragging`,
         "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
       );
     message.channel.send(pointsEmbed);
@@ -153,7 +153,7 @@ client.on("message", async message => {
         )} points.`
       )
       .setFooter(
-        `Made by Phosphorus_Carbide`,
+        `Made by JesusOfTopFragging`,
         "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
       );
     message.channel.send(pointsEmbed);
@@ -208,7 +208,7 @@ client.on("message", async message => {
         )} points.`
       )
       .setFooter(
-        `Made by Phosphorus_Carbide`,
+        `Made by JesusOfTopFragging`,
         "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
       );
     message.channel.send(pointsEmbed);
@@ -263,7 +263,7 @@ client.on("message", async message => {
         )} points.`
       )
       .setFooter(
-        `Made by Phosphorus_Carbide`,
+        `Made by JesusOfTopFragging`,
         "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
       );
     message.channel.send(pointsEmbed);
@@ -295,7 +295,7 @@ client.on("message", async message => {
         }
       )
       .setFooter(
-        `Made by Phosphorus_Carbide`,
+        `Made by JesusOfTopFragging`,
         "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
       );
     message.channel.send(helpEmbed);
@@ -346,7 +346,7 @@ client.on("message", async message => {
         )
         .setDescription(`Sorry, you are not eligible for a promotion, leaving you at [E-1] Enlist.`)
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       roblox.setRank({ group: groupId, target: id, rank: 1 });
@@ -365,7 +365,7 @@ client.on("message", async message => {
           `${username} was promoted to [E-2] Private. Congrats, soldier. Be sure to do !getroles to get your role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -383,7 +383,7 @@ client.on("message", async message => {
           `${username} was promoted to [E-3] Private First Class. Congrats, soldier. Be sure to do !getroles to get your role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -401,7 +401,7 @@ client.on("message", async message => {
           `${username} was promoted to [E-4] Lance Corporal. Congrats, soldier. Be sure to do !getroles to get your role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -419,7 +419,7 @@ client.on("message", async message => {
           `${username} was promoted to [E-5] Corporal. Congrats, soldier. Be sure to do !getroles to get your role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -437,7 +437,7 @@ client.on("message", async message => {
           `${username} was promoted to [N-1] Sergeant. Congrats, soldier. Be sure to do !getroles to get your role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -455,7 +455,7 @@ client.on("message", async message => {
           `${username} was promoted to [N-2] Staff Sergeant. Congrats, soldier. Be sure to do !getroles to get your role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -473,7 +473,7 @@ client.on("message", async message => {
           `${username} was promoted to [N-3] Sergeant Major. Congrats, soldier. Be sure to do !getroles to get your role. Please read <#693548897913536533>.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -509,7 +509,7 @@ client.on("message", async message => {
         )
         .setDescription(`Sorry, ${username} is not eligible for a promotion, leaving them at [E-1] Enlist.`)
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       roblox.setRank({ group: groupId, target: id, rank: 1 });
@@ -528,7 +528,7 @@ client.on("message", async message => {
           `${username} was promoted to [E-2] Private. Congrats to that soldier. Be sure to have them do !getroles to get their role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -546,7 +546,7 @@ client.on("message", async message => {
           `${username} was promoted to [E-3] Private First Class. Congrats to that soldier. Be sure to have them do !getroles to get their role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -564,7 +564,7 @@ client.on("message", async message => {
           `${username} was promoted to [E-4] Lance Corporal. Congrats to that soldier. Be sure to have them do !getroles to get their role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -582,7 +582,7 @@ client.on("message", async message => {
           `${username} was promoted to [E-5] Corporal. Congrats to that soldier. Be sure to have them do !getroles to get their role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -600,7 +600,7 @@ client.on("message", async message => {
           `${username} was promoted to [N-1] Sergeant. Congrats to that soldier. Be sure to have them do !getroles to get their role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -618,7 +618,7 @@ client.on("message", async message => {
           `${username} was promoted to [N-2] Staff Sergeant. Congrats to that soldier. Be sure to have them do !getroles to get their role.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
@@ -636,7 +636,7 @@ client.on("message", async message => {
           `${username} was promoted to [N-3] Sergeant Major. Congrats to that soldier. Be sure to have them do !getroles to get their role. Please have them read <#693548897913536533>.`
         )
         .setFooter(
-          `Made by Phosphorus_Carbide`,
+          `Made by JesusOfTopFragging`,
           "https://cdn.discordapp.com/avatars/294291918022508547/28c740d2370e117a4b74dcb3df117f3b.png?size=128"
         );
       message.channel.send(promoEmbed);
